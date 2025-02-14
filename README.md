@@ -1,5 +1,5 @@
 # AI Web Scraper
-##  [👉 View Demo](https://github.com/naoufalcb/AI-Web-Scraper/edit/main/README.md#demo)
+##  [👉 View Demo](https://github.com/naoufalcb/AI-Web-Scraper?tab=readme-ov-file#demo)
 ## Overview
 This project is an AI-powered web scraper that utilizes OpenAI's API, BrightData's Scraping Browser, Selenium, and other libraries to extract and process website data. It is designed to bypass CAPTCHA challenges and interact with web pages dynamically. The extracted content can be processed with a large language model (LLM) for structured data extraction.
 
