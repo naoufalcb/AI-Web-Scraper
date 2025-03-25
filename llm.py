@@ -19,7 +19,7 @@ template = (
 # defining the OpenAI model
 model = OpenAI(
     model="gpt-4o",
-    base_url="https://models.inference.ai.azure.com",
+    # base_url="https://models.inference.ai.azure.com",  # Keep this if you are using a Dev API
     api_key=os.getenv("GITHUB_TOKEN"),
 )
 
