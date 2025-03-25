@@ -32,7 +32,7 @@ Ensure you have Python installed (version 3.7+ recommended).
      ```
    - Add your OpenAI API key:
      ```env
-     SBR_WEBDRIVER=your_scraping_browser_webdriver_url
+     GITHUB_TOKEN=your_openai_api_key
      ```
 
 ## Demo
